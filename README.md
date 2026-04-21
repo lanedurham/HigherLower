@@ -24,8 +24,9 @@ HIGHER/LOWER is a game where the user must guess whether a song has more listene
 ## Demo
 
 ### Screenshots
-![Home Screen](images/home.png)
-![Game Screen](images/game.png)
+![Home Screen](images/higherlowerhome.png)
+![Game Screen 1](images/higherlower1.png)
+![Game Screen 2](images/higherlower2.png)
 
 ### Video
 <video src="videos/demo.mp4" controls width="300"></video>
